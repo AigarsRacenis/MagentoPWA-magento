@@ -1,0 +1,23 @@
+{
+    "name": "magento/sample-data-media-venia",
+    "description": "Sample Data media files",
+    "type": "magento2-component",
+    "version": "0.0.5",
+    "extra": {
+        "map": [
+            [
+                "catalog/*",
+                "pub/media/catalog"
+            ],
+            [
+                "downloadable/*",
+                "pub/media/downloadable"
+            ],
+            [
+                "wysiwyg/*",
+                "pub/media/wysiwyg"
+            ]
+        ]
+    }
+}
+

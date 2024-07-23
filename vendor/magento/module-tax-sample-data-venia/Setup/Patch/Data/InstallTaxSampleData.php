@@ -1,0 +1,65 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+namespace Magento\TaxSampleDataVenia\Setup\Patch\Data;
+
+use Magento\Framework\Setup;
+use Magento\Framework\Setup\Patch\DataPatchInterface;
+
+/**
+ * Class InstallTaxSampleData
+ * @package Magento\TaxSampleDataVenia\Setup\Patch\Data
+ */
+class InstallTaxSampleData implements DataPatchInterface
+{
+    /**
+     * @var Setup\SampleData\Executor
+     */
+    protected $executor;
+
+    /**
+     * @var \Magento\TaxSampleDataVenia\Setup\Installer
+     */
+    protected $installer;
+
+    /**
+     * InstallTaxSampleData constructor.
+     * @param Setup\SampleData\Executor $executor
+     * @param \Magento\TaxSampleDataVenia\Setup\Installer $installer
+     */
+    public function __construct(
+        Setup\SampleData\Executor $executor,
+        \Magento\TaxSampleDataVenia\Setup\Installer $installer
+    ) {
+        $this->executor = $executor;
+        $this->installer = $installer;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function apply()
+    {
+        $this->executor->exec($this->installer);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public static function getDependencies()
+    {
+        return [];
+    }
+
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getAliases()
+    {
+        return [];
+    }
+}

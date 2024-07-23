@@ -1,0 +1,15 @@
+name,url_key,path,active,is_anchor,include_in_menu,position,page_layout,display_mode,landing_page,custom_layout_update,image,meta_description
+Tops,venia-tops,,1,1,1,1,,,,,outside.jpg,Tops
+Blouses & Shirts,venia-blouses,Tops,1,1,1,1,,,,,,"Blouses & Shirts"
+Sweaters,venia-sweaters,Tops,1,1,1,2,,,,,,Sweaters
+Bottoms,venia-bottoms,,1,1,1,2,,,,,minimalist.jpg,Bottoms
+Pants & Shorts,venia-pants,Bottoms,1,1,1,1,,,,,,"Pants & Shorts"
+Skirts,venia-skirts,Bottoms,1,1,1,2,,,,,,Skirts
+Dresses,venia-dresses,,1,1,1,3,,,,,timeless.jpg,Dresses
+"Shop The Look",shop-the-look,,1,1,1,5,,,,,,"Shop The Look"
+"Minimalist Sensibility",minimalist-sensibility,"Shop The Look",1,1,1,1,,,,,,"Minimalist Sensibility"
+"Outside the Lines",outside-the-lines,"Shop The Look",1,1,1,2,,,,,,"Outside the Lines"
+"Carefree Days",carefree-days,"Shop The Look",1,1,1,3,,,,,,"Carefree Days"
+"Perfectly Beachy",perfectly-beachy,"Shop The Look",1,1,1,4,,,,,,"Perfectly Beachy"
+"Retire your LBD",retire-your-lbd,"Shop The Look",1,1,1,5,,,,,,"Retire your LBD"
+"Timeless Sophistication",timeless-sophistication,"Shop The Look",1,1,1,6,,,,,,"Timeless Sophistication"

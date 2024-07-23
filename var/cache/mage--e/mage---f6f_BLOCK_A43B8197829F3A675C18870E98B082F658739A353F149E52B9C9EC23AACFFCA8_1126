@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1721625943;s:6:"expire";i:1721629543;s:4:"tags";s:48:"f6f_BLOCK_HTML,f6f_CAT_P_1126,f6f_CAT_P,f6f_MAGE";}
+                <div class="swatch-opt-1126"
+         data-role="swatch-option-1126"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1126]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["490","489","491","492"]},{"id":"23","label":"Khaki","products":["498","497","499","500"]},{"id":"24","label":"Lilac","products":["494","493","495","496"]},{"id":"25","label":"Rain","products":["486","485","487","488"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["500","496","492","488"]},{"id":"35","label":"M","products":["499","495","491","487"]},{"id":"36","label":"S","products":["498","494","490","486"]},{"id":"37","label":"XS","products":["497","493","489","485"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"498":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"494":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"490":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"486":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"497":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"493":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"489":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"485":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"499":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"495":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"491":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"487":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"500":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"496":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"492":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"488":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}},"productId":"1126","chooseText":"Choose an Option...","images":[],"index":{"498":{"138":"23","149":"36"},"494":{"138":"24","149":"36"},"490":{"138":"22","149":"36"},"486":{"138":"25","149":"36"},"497":{"138":"23","149":"37"},"493":{"138":"24","149":"37"},"489":{"138":"22","149":"37"},"485":{"138":"25","149":"37"},"499":{"138":"23","149":"35"},"495":{"138":"24","149":"35"},"491":{"138":"22","149":"35"},"487":{"138":"25","149":"35"},"500":{"138":"23","149":"34"},"496":{"138":"24","149":"34"},"492":{"138":"22","149":"34"},"488":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1126]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}}                    }
+                }
+            }
+        }
+    </script>

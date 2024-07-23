@@ -1,0 +1,37 @@
+"title","identifier","content"
+Contact Us - Banner,contact-us-banner,"<style>#html-body [data-pb-style=I8CB7CB],#html-body [data-pb-style=ODT6CKA]{display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=I8CB7CB]{justify-content:flex-start;margin-left:-16px;margin-right:-16px}#html-body [data-pb-style=ODT6CKA]{justify-content:center;background-color:#1b252c;width:58.3333%;padding:30px;align-self:stretch}#html-body [data-pb-style=AEDWO4U]{text-align:center;margin-top:15px}#html-body [data-pb-style=T34DSUP]{width:102px;border-width:8px;border-color:#1f39ff;display:inline-block}#html-body [data-pb-style=APXU6AI]{justify-content:flex-start;display:flex;flex-direction:column;background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;min-height:270px;width:41.6667%;margin-top:15px;margin-bottom:15px;align-self:stretch}</style><div data-content-type=""row"" data-appearance=""contained"" data-element=""main""><div data-enable-parallax=""0"" data-parallax-speed=""0.5"" data-background-images=""{}"" data-background-type=""image"" data-video-loop=""true"" data-video-play-only-visible=""true"" data-video-lazy-load=""true"" data-video-fallback-src="""" data-element=""inner"" data-pb-style=""I8CB7CB""><div class=""pagebuilder-column-group"" style=""display: flex;"" data-content-type=""column-group"" data-grid-size=""12"" data-element=""main""><div class=""pagebuilder-column"" data-content-type=""column"" data-appearance=""full-height"" data-background-images=""{}"" data-element=""main"" data-pb-style=""ODT6CKA""><div data-content-type=""text"" data-appearance=""default"" data-element=""main""><h2 style=""text-align: center;""><span style=""color: #fff;"">Get in touch</span></h2>
+<p style=""text-align: center;""><span style=""color: #ecf0f1; font-size: 18px;"">We love to hear from our customers</span></p></div><div data-content-type=""divider"" data-appearance=""default"" data-element=""main"" data-pb-style=""AEDWO4U""><hr data-element=""line"" data-pb-style=""T34DSUP""></div></div><div class=""pagebuilder-column"" data-content-type=""column"" data-appearance=""full-height"" data-background-images=""{\&quot;desktop_image\&quot;:\&quot;{{media url=wysiwyg/contact-us/contact-us-01-desktop.jpg}}\&quot;,\&quot;mobile_image\&quot;:\&quot;{{media url=wysiwyg/contact-us/contact-us-01-mobile.jpg}}\&quot;}"" data-element=""main"" data-pb-style=""APXU6AI""></div></div></div></div>"
+Contact Us - Sidebar,contact-us-sidebar,"<style>#html-body [data-pb-style=AA1A2L1],#html-body [data-pb-style=DPQEGEK]{margin-bottom:20px}#html-body [data-pb-style=AA1A2L1],#html-body [data-pb-style=DPQEGEK],#html-body [data-pb-style=M03BMEK]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}</style><div data-content-type=""row"" data-appearance=""contained"" data-element=""main""><div data-enable-parallax=""0"" data-parallax-speed=""0.5"" data-background-images=""{}"" data-background-type=""image"" data-video-loop=""true"" data-video-play-only-visible=""true"" data-video-lazy-load=""true"" data-video-fallback-src="""" data-element=""inner"" data-pb-style=""AA1A2L1""><h2 data-content-type=""heading"" data-appearance=""default"" data-element=""main"">By phone</h2><div data-content-type=""text"" data-appearance=""default"" data-element=""main""><p style=""text-align: left;"">Whether you need help with an order or a return, are having trouble with your account, or have questions about a product Venia Customer Service is here for you 24 hours a day.</p></div><div data-content-type=""html"" data-appearance=""default"" data-element=""main"">&lt;p&gt;
+    &lt;a tabindex=""0""
+       href=""tel:1-800-555-8838""
+       style=""display: inline-flex; align-items: center;""&gt;
+        &lt;img
+            style=""width: 16px; height: 22px; margin-right: 13px""
+            srcSet=""{{media url=wysiwyg/contact-us/icon-telephone.png}} 1x""
+            src=""{{media url=wysiwyg/contact-us/icon-telephone.png}}""
+            alt="""" width=""16"" height=""22""&gt;
+        &lt;span&gt;1-800-555-8838&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/p&gt;</div></div></div><div data-content-type=""row"" data-appearance=""contained"" data-element=""main""><div data-enable-parallax=""0"" data-parallax-speed=""0.5"" data-background-images=""{}"" data-background-type=""image"" data-video-loop=""true"" data-video-play-only-visible=""true"" data-video-lazy-load=""true"" data-video-fallback-src="""" data-element=""inner"" data-pb-style=""DPQEGEK""><h2 data-content-type=""heading"" data-appearance=""default"" data-element=""main"">Design inquiries</h2><div data-content-type=""text"" data-appearance=""default"" data-element=""main""><p>Are you an independent fashion designer interested is featuring your products on Venia.com? If so, contact Venia Merchandising for details.</p></div><div data-content-type=""html"" data-appearance=""default"" data-element=""main"">&lt;p&gt;
+    &lt;a tabindex=""0""
+       href=""mailto:venia_merchandising@venia.com""
+       style=""display: inline-flex; align-items: center;""&gt;
+        &lt;img
+             style=""width: 22px; height: 22px; margin-right: 10px""
+             srcSet=""{{media url=wysiwyg/contact-us/icon-email.png}} 1x""
+             src=""{{media url=wysiwyg/contact-us/icon-email.png}}""
+             alt="""" width=""22"" height=""22""&gt;
+        &lt;span&gt;venia_merchandising@venia.com&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/p&gt;</div></div></div><div data-content-type=""row"" data-appearance=""contained"" data-element=""main""><div data-enable-parallax=""0"" data-parallax-speed=""0.5"" data-background-images=""{}"" data-background-type=""image"" data-video-loop=""true"" data-video-play-only-visible=""true"" data-video-lazy-load=""true"" data-video-fallback-src="""" data-element=""inner"" data-pb-style=""M03BMEK""><h2 data-content-type=""heading"" data-appearance=""default"" data-element=""main"">Press inquiries</h2><div data-content-type=""text"" data-appearance=""default"" data-element=""main""><p>Please forward all media requests to the Venia Public Relations Department.</p></div><div data-content-type=""html"" data-appearance=""default"" data-element=""main"">&lt;p&gt;
+    &lt;a tabindex=""0""
+       href=""mailto:venia_pr@venia.com""
+       style=""display: inline-flex; align-items: center;""&gt;
+        &lt;img
+             style=""width: 22px; height: 22px; margin-right: 10px""
+             srcSet=""{{media url=wysiwyg/contact-us/icon-email.png}} 1x""
+             src=""{{media url=wysiwyg/contact-us/icon-email.png}}""
+             alt="""" width=""22"" height=""22""&gt;
+        &lt;span&gt;venia_pr@venia.com&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/p&gt;</div></div></div>"

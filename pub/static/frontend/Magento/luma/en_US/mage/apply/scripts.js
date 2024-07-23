@@ -1,0 +1,1 @@
+/var/www/magentoPwa/lib/web/mage/apply/scripts.js

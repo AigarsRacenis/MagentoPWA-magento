@@ -1,0 +1,1143 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1721376804;s:6:"expire";i:1721463204;s:4:"tags";s:196:"f6f_CAT_P,f6f_BLOCK_HTML,f6f_CAT_P_1132,f6f_CAT_P_1131,f6f_CAT_P_1130,f6f_CAT_P_1129,f6f_CAT_P_1128,f6f_CAT_P_1127,f6f_CAT_P_1126,f6f_CAT_P_1125,f6f_CAT_P_1124,f6f_CAT_P_1123,f6f_CAT_C_13,f6f_MAGE";}
+        <ol class="product-items widget-product-carousel">
+                            <li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/bellona-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1132">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk01-la_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1132 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1132 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1132 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Bellona Skirt"
+                           href="http://magentopwa.local/bellona-skirt.html"
+                           class="product-item-link">
+                            Bellona Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1132" data-price-box="product-id-1132">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1132-widget-product-carousel"                data-price-amount="78"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$78.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1132"
+         data-role="swatch-option-1132"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1132]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"24","label":"Lilac","products":["590","589","591","592"]},{"id":"25","label":"Rain","products":["582","581","583","584"]},{"id":"26","label":"Mint","products":["586","585","587","588"]},{"id":"28","label":"Latte","products":["594","593","595","596"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["596","592","588","584"]},{"id":"35","label":"M","products":["595","591","587","583"]},{"id":"36","label":"S","products":["594","590","586","582"]},{"id":"37","label":"XS","products":["593","589","585","581"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"594":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"590":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"586":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"582":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"593":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"589":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"585":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"581":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"595":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"591":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"587":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"583":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"596":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"592":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"588":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"584":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}},"productId":"1132","chooseText":"Choose an Option...","images":[],"index":{"594":{"138":"28","149":"36"},"590":{"138":"24","149":"36"},"586":{"138":"26","149":"36"},"582":{"138":"25","149":"36"},"593":{"138":"28","149":"37"},"589":{"138":"24","149":"37"},"585":{"138":"26","149":"37"},"581":{"138":"25","149":"37"},"595":{"138":"28","149":"35"},"591":{"138":"24","149":"35"},"587":{"138":"26","149":"35"},"583":{"138":"25","149":"35"},"596":{"138":"28","149":"34"},"592":{"138":"24","149":"34"},"588":{"138":"26","149":"34"},"584":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"26":{"type":"1","value":"#d8f0d8","label":"Mint"},"28":{"type":"1","value":"#C0a890","label":"Latte"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1132]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK01" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1132/" method="post">
+                                                <input type="hidden" name="product" value="1132">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMzIv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK01"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1132,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1132","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/rowena-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1131">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk02-ll_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1131 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1131 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1131 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Rowena Skirt"
+                           href="http://magentopwa.local/rowena-skirt.html"
+                           class="product-item-link">
+                            Rowena Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1131" data-price-box="product-id-1131">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1131-widget-product-carousel"                data-price-amount="78"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$78.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1131"
+         data-role="swatch-option-1131"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1131]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["570","569","571","572"]},{"id":"23","label":"Khaki","products":["578","577","579","580"]},{"id":"24","label":"Lilac","products":["574","573","575","576"]},{"id":"25","label":"Rain","products":["566","565","567","568"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["580","576","572","568"]},{"id":"35","label":"M","products":["579","575","571","567"]},{"id":"36","label":"S","products":["578","574","570","566"]},{"id":"37","label":"XS","products":["577","573","569","565"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"578":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"574":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"570":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"566":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"577":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"573":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"569":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"565":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"579":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"575":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"571":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"567":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"580":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"576":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"572":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"568":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}},"productId":"1131","chooseText":"Choose an Option...","images":[],"index":{"578":{"138":"23","149":"36"},"574":{"138":"24","149":"36"},"570":{"138":"22","149":"36"},"566":{"138":"25","149":"36"},"577":{"138":"23","149":"37"},"573":{"138":"24","149":"37"},"569":{"138":"22","149":"37"},"565":{"138":"25","149":"37"},"579":{"138":"23","149":"35"},"575":{"138":"24","149":"35"},"571":{"138":"22","149":"35"},"567":{"138":"25","149":"35"},"580":{"138":"23","149":"34"},"576":{"138":"24","149":"34"},"572":{"138":"22","149":"34"},"568":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1131]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK02" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1131/" method="post">
+                                                <input type="hidden" name="product" value="1131">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMzEv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK02"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1131,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1131","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/johanna-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1130">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk03-pe_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1130 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1130 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1130 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Johanna Skirt"
+                           href="http://magentopwa.local/johanna-skirt.html"
+                           class="product-item-link">
+                            Johanna Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1130" data-price-box="product-id-1130">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1130-widget-product-carousel"                data-price-amount="78"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$78.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1130"
+         data-role="swatch-option-1130"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1130]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["554","553","555","556"]},{"id":"23","label":"Khaki","products":["562","561","563","564"]},{"id":"24","label":"Lilac","products":["558","557","559","560"]},{"id":"25","label":"Rain","products":["550","549","551","552"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["564","560","556","552"]},{"id":"35","label":"M","products":["563","559","555","551"]},{"id":"36","label":"S","products":["562","558","554","550"]},{"id":"37","label":"XS","products":["561","557","553","549"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"562":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"558":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"554":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"550":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"561":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"557":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"553":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"549":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"563":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"559":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"555":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"551":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"564":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"560":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"556":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"552":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}},"productId":"1130","chooseText":"Choose an Option...","images":[],"index":{"562":{"138":"23","149":"36"},"558":{"138":"24","149":"36"},"554":{"138":"22","149":"36"},"550":{"138":"25","149":"36"},"561":{"138":"23","149":"37"},"557":{"138":"24","149":"37"},"553":{"138":"22","149":"37"},"549":{"138":"25","149":"37"},"563":{"138":"23","149":"35"},"559":{"138":"24","149":"35"},"555":{"138":"22","149":"35"},"551":{"138":"25","149":"35"},"564":{"138":"23","149":"34"},"560":{"138":"24","149":"34"},"556":{"138":"22","149":"34"},"552":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1130]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK03" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1130/" method="post">
+                                                <input type="hidden" name="product" value="1130">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMzAv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK03"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1130,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1130","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/daria-crochet-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1129">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk04-kh_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1129 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1129 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1129 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Daria Crochet Skirt"
+                           href="http://magentopwa.local/daria-crochet-skirt.html"
+                           class="product-item-link">
+                            Daria Crochet Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1129" data-price-box="product-id-1129">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1129-widget-product-carousel"                data-price-amount="98"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$98.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1129"
+         data-role="swatch-option-1129"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1129]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["538","537","539","540"]},{"id":"23","label":"Khaki","products":["546","545","547","548"]},{"id":"24","label":"Lilac","products":["542","541","543","544"]},{"id":"25","label":"Rain","products":["534","533","535","536"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["548","544","540","536"]},{"id":"35","label":"M","products":["547","543","539","535"]},{"id":"36","label":"S","products":["546","542","538","534"]},{"id":"37","label":"XS","products":["545","541","537","533"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"546":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"542":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"538":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"534":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"545":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"541":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"537":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"533":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"547":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"543":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"539":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"535":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"548":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"544":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"540":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"536":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98}},"productId":"1129","chooseText":"Choose an Option...","images":[],"index":{"546":{"138":"23","149":"36"},"542":{"138":"24","149":"36"},"538":{"138":"22","149":"36"},"534":{"138":"25","149":"36"},"545":{"138":"23","149":"37"},"541":{"138":"24","149":"37"},"537":{"138":"22","149":"37"},"533":{"138":"25","149":"37"},"547":{"138":"23","149":"35"},"543":{"138":"24","149":"35"},"539":{"138":"22","149":"35"},"535":{"138":"25","149":"35"},"548":{"138":"23","149":"34"},"544":{"138":"24","149":"34"},"540":{"138":"22","149":"34"},"536":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1129]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK04" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1129/" method="post">
+                                                <input type="hidden" name="product" value="1129">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjkv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK04"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1129,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1129","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/agatha-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1128">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk05-pe_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1128 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1128 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1128 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Agatha Skirt"
+                           href="http://magentopwa.local/agatha-skirt.html"
+                           class="product-item-link">
+                            Agatha Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1128" data-price-box="product-id-1128">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1128-widget-product-carousel"                data-price-amount="78"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$78.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1128"
+         data-role="swatch-option-1128"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1128]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["522","521","523","524"]},{"id":"23","label":"Khaki","products":["530","529","531","532"]},{"id":"24","label":"Lilac","products":["526","525","527","528"]},{"id":"25","label":"Rain","products":["518","517","519","520"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["532","528","524","520"]},{"id":"35","label":"M","products":["531","527","523","519"]},{"id":"36","label":"S","products":["530","526","522","518"]},{"id":"37","label":"XS","products":["529","525","521","517"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"530":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"526":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"522":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"518":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"529":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"525":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"521":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"517":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"531":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"527":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"523":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"519":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"532":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"528":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"524":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}},"520":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}},"productId":"1128","chooseText":"Choose an Option...","images":[],"index":{"530":{"138":"23","149":"36"},"526":{"138":"24","149":"36"},"522":{"138":"22","149":"36"},"518":{"138":"25","149":"36"},"529":{"138":"23","149":"37"},"525":{"138":"24","149":"37"},"521":{"138":"22","149":"37"},"517":{"138":"25","149":"37"},"531":{"138":"23","149":"35"},"527":{"138":"24","149":"35"},"523":{"138":"22","149":"35"},"519":{"138":"25","149":"35"},"532":{"138":"23","149":"34"},"528":{"138":"24","149":"34"},"524":{"138":"22","149":"34"},"520":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1128]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":78},"oldPrice":{"amount":78},"basePrice":{"amount":78},"finalPrice":{"amount":78}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK05" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1128/" method="post">
+                                                <input type="hidden" name="product" value="1128">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjgv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK05"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1128,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1128","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/leona-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1127">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk06-la_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1127 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1127 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1127 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Leona Skirt"
+                           href="http://magentopwa.local/leona-skirt.html"
+                           class="product-item-link">
+                            Leona Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1127" data-price-box="product-id-1127">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1127-widget-product-carousel"                data-price-amount="88"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$88.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1127"
+         data-role="swatch-option-1127"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1127]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"25","label":"Rain","products":["502","501","503","504"]},{"id":"26","label":"Mint","products":["506","505","507","508"]},{"id":"27","label":"Lily","products":["510","509","511","512"]},{"id":"28","label":"Latte","products":["514","513","515","516"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["516","512","508","504"]},{"id":"35","label":"M","products":["515","511","507","503"]},{"id":"36","label":"S","products":["514","510","506","502"]},{"id":"37","label":"XS","products":["513","509","505","501"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"514":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"510":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"506":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"502":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"513":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"509":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"505":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"501":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"515":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"511":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"507":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"503":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"516":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"512":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"508":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"504":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88}},"productId":"1127","chooseText":"Choose an Option...","images":[],"index":{"514":{"138":"28","149":"36"},"510":{"138":"27","149":"36"},"506":{"138":"26","149":"36"},"502":{"138":"25","149":"36"},"513":{"138":"28","149":"37"},"509":{"138":"27","149":"37"},"505":{"138":"26","149":"37"},"501":{"138":"25","149":"37"},"515":{"138":"28","149":"35"},"511":{"138":"27","149":"35"},"507":{"138":"26","149":"35"},"503":{"138":"25","149":"35"},"516":{"138":"28","149":"34"},"512":{"138":"27","149":"34"},"508":{"138":"26","149":"34"},"504":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"26":{"type":"1","value":"#d8f0d8","label":"Mint"},"27":{"type":"1","value":"#f0f0c0","label":"Lily"},"28":{"type":"1","value":"#C0a890","label":"Latte"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1127]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK06" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1127/" method="post">
+                                                <input type="hidden" name="product" value="1127">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjcv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK06"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1127,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1127","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/davina-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1126">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk07-rn_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1126 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1126 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1126 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Davina Skirt"
+                           href="http://magentopwa.local/davina-skirt.html"
+                           class="product-item-link">
+                            Davina Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1126" data-price-box="product-id-1126">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1126-widget-product-carousel"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$108.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1126"
+         data-role="swatch-option-1126"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1126]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["490","489","491","492"]},{"id":"23","label":"Khaki","products":["498","497","499","500"]},{"id":"24","label":"Lilac","products":["494","493","495","496"]},{"id":"25","label":"Rain","products":["486","485","487","488"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["500","496","492","488"]},{"id":"35","label":"M","products":["499","495","491","487"]},{"id":"36","label":"S","products":["498","494","490","486"]},{"id":"37","label":"XS","products":["497","493","489","485"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"498":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"494":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"490":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"486":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"497":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"493":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"489":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"485":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"499":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"495":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"491":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"487":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"500":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"496":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"492":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"488":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}},"productId":"1126","chooseText":"Choose an Option...","images":[],"index":{"498":{"138":"23","149":"36"},"494":{"138":"24","149":"36"},"490":{"138":"22","149":"36"},"486":{"138":"25","149":"36"},"497":{"138":"23","149":"37"},"493":{"138":"24","149":"37"},"489":{"138":"22","149":"37"},"485":{"138":"25","149":"37"},"499":{"138":"23","149":"35"},"495":{"138":"24","149":"35"},"491":{"138":"22","149":"35"},"487":{"138":"25","149":"35"},"500":{"138":"23","149":"34"},"496":{"138":"24","149":"34"},"492":{"138":"22","149":"34"},"488":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1126]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK07" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1126/" method="post">
+                                                <input type="hidden" name="product" value="1126">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjYv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK07"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1126,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1126","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/tatiana-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1125">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk08-ly_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1125 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1125 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1125 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Tatiana Skirt"
+                           href="http://magentopwa.local/tatiana-skirt.html"
+                           class="product-item-link">
+                            Tatiana Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1125" data-price-box="product-id-1125">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1125-widget-product-carousel"                data-price-amount="98"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$98.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1125"
+         data-role="swatch-option-1125"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1125]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["470","469","471","472"]},{"id":"26","label":"Mint","products":["474","473","475","476"]},{"id":"27","label":"Lily","products":["478","477","479","480"]},{"id":"28","label":"Latte","products":["482","481","483","484"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["484","480","476","472"]},{"id":"35","label":"M","products":["483","479","475","471"]},{"id":"36","label":"S","products":["482","478","474","470"]},{"id":"37","label":"XS","products":["481","477","473","469"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"482":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"478":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"474":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"470":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"481":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"477":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"473":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"469":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"483":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"479":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"475":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"471":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"484":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"480":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"476":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}},"472":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98}},"productId":"1125","chooseText":"Choose an Option...","images":[],"index":{"482":{"138":"28","149":"36"},"478":{"138":"27","149":"36"},"474":{"138":"26","149":"36"},"470":{"138":"22","149":"36"},"481":{"138":"28","149":"37"},"477":{"138":"27","149":"37"},"473":{"138":"26","149":"37"},"469":{"138":"22","149":"37"},"483":{"138":"28","149":"35"},"479":{"138":"27","149":"35"},"475":{"138":"26","149":"35"},"471":{"138":"22","149":"35"},"484":{"138":"28","149":"34"},"480":{"138":"27","149":"34"},"476":{"138":"26","149":"34"},"472":{"138":"22","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"26":{"type":"1","value":"#d8f0d8","label":"Mint"},"27":{"type":"1","value":"#f0f0c0","label":"Lily"},"28":{"type":"1","value":"#C0a890","label":"Latte"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1125]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":98},"oldPrice":{"amount":98},"basePrice":{"amount":98},"finalPrice":{"amount":98}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK08" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1125/" method="post">
+                                                <input type="hidden" name="product" value="1125">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjUv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK08"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1125,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1125","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/iona-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1124">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk09-rn_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1124 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1124 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1124 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Iona Skirt"
+                           href="http://magentopwa.local/iona-skirt.html"
+                           class="product-item-link">
+                            Iona Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1124" data-price-box="product-id-1124">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1124-widget-product-carousel"                data-price-amount="88"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$88.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1124"
+         data-role="swatch-option-1124"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1124]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["458","457","459","460"]},{"id":"23","label":"Khaki","products":["466","465","467","468"]},{"id":"24","label":"Lilac","products":["462","461","463","464"]},{"id":"25","label":"Rain","products":["454","453","455","456"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["468","464","460","456"]},{"id":"35","label":"M","products":["467","463","459","455"]},{"id":"36","label":"S","products":["466","462","458","454"]},{"id":"37","label":"XS","products":["465","461","457","453"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"466":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"462":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"458":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"454":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"465":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"461":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"457":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"453":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"467":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"463":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"459":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"455":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"468":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"464":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"460":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}},"456":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88}},"productId":"1124","chooseText":"Choose an Option...","images":[],"index":{"466":{"138":"23","149":"36"},"462":{"138":"24","149":"36"},"458":{"138":"22","149":"36"},"454":{"138":"25","149":"36"},"465":{"138":"23","149":"37"},"461":{"138":"24","149":"37"},"457":{"138":"22","149":"37"},"453":{"138":"25","149":"37"},"467":{"138":"23","149":"35"},"463":{"138":"24","149":"35"},"459":{"138":"22","149":"35"},"455":{"138":"25","149":"35"},"468":{"138":"23","149":"34"},"464":{"138":"24","149":"34"},"460":{"138":"22","149":"34"},"456":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1124]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":88},"oldPrice":{"amount":88},"basePrice":{"amount":88},"finalPrice":{"amount":88}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK09" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1124/" method="post">
+                                                <input type="hidden" name="product" value="1124">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjQv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK09"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1124,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1124","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://magentopwa.local/samara-skirt.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1123">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magentopwa.local/media/catalog/product/cache/7b8f0036e26bc2d32a8d2d89cfc5e1f7/v/s/vsk10-pe_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Main"/></span>
+</span>
+<style>.product-image-container-1123 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1123 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1123 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Samara Skirt"
+                           href="http://magentopwa.local/samara-skirt.html"
+                           class="product-item-link">
+                            Samara Skirt                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1123" data-price-box="product-id-1123">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1123-widget-product-carousel"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$108.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                    <div class="swatch-opt-1123"
+         data-role="swatch-option-1123"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1123]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"138":{"id":"138","code":"fashion_color","label":"Fashion Color","options":[{"id":"22","label":"Peach","products":["442","441","443","444"]},{"id":"23","label":"Khaki","products":["450","449","451","452"]},{"id":"24","label":"Lilac","products":["446","445","447","448"]},{"id":"25","label":"Rain","products":["438","437","439","440"]}],"position":"0"},"149":{"id":"149","code":"fashion_size","label":"Fashion Size","options":[{"id":"34","label":"L","products":["452","448","444","440"]},{"id":"35","label":"M","products":["451","447","443","439"]},{"id":"36","label":"S","products":["450","446","442","438"]},{"id":"37","label":"XS","products":["449","445","441","437"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"450":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"446":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"442":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"438":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"449":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"445":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"441":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"437":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"451":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"447":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"443":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"439":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"452":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"448":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"444":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}},"440":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}},"productId":"1123","chooseText":"Choose an Option...","images":[],"index":{"450":{"138":"23","149":"36"},"446":{"138":"24","149":"36"},"442":{"138":"22","149":"36"},"438":{"138":"25","149":"36"},"449":{"138":"23","149":"37"},"445":{"138":"24","149":"37"},"441":{"138":"22","149":"37"},"437":{"138":"25","149":"37"},"451":{"138":"23","149":"35"},"447":{"138":"24","149":"35"},"443":{"138":"22","149":"35"},"439":{"138":"25","149":"35"},"452":{"138":"23","149":"34"},"448":{"138":"24","149":"34"},"444":{"138":"22","149":"34"},"440":{"138":"25","149":"34"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[]},
+                    "jsonSwatchConfig": {"138":{"22":{"type":"1","value":"#fee1d2","label":"Peach"},"23":{"type":"1","value":"#f9efe5","label":"Khaki"},"24":{"type":"1","value":"#dcd5e1","label":"Lilac"},"25":{"type":"1","value":"#d4e3ec","label":"Rain"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fmagentopwa.local\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1123]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":108},"oldPrice":{"amount":108},"basePrice":{"amount":108},"finalPrice":{"amount":108}}                    }
+                }
+            }
+        }
+    </script>
+
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="VSK10" action="http://magentopwa.local/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG9wd2EubG9jYWwv/product/1123/" method="post">
+                                                <input type="hidden" name="product" value="1123">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL21hZ2VudG9wd2EubG9jYWwvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyMWhaMlZ1ZEc5d2QyRXViRzlqWVd3di9wcm9kdWN0LzExMjMv">
+                                                <input name="form_key" type="hidden" value="LL9AonijPZJUll9Q" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "VSK10"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/magentopwa.local\/wishlist\/index\/add\/","data":{"product":1123,"uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magentopwa.local\/catalog\/product_compare\/add\/","data":{"product":"1123","uenc":"aHR0cDovL21hZ2VudG9wd2EubG9jYWwv"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+            </li>            </ol>

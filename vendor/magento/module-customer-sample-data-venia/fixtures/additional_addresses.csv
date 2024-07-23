@@ -1,0 +1,3 @@
+email,firstname,lastname,street,city,region,country_id,postcode,telephone
+"roni_cost@example.com",Margaret,Costello,"[""1313 Mockingbird Lane"",""""]",Munster,Indiana,US,"46321","(555) 229-5526"
+"sharon@example.com",Sharon,Reynolds,"[""4222 Clinton Way"",""""]",Studio City,California,US,"91602","(555) 229-3326"

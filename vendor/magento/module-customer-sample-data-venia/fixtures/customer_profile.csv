@@ -1,0 +1,4 @@
+firstname,lastname,email,password,dob,gender,street,city,region,country_id,postcode,telephone
+Veronica,Costello,"roni_cost@example.com","roni_cost3@example.com","1973-12-15",2,"[""6146 Honey Bluff Parkway"",""""]",Calder,Michigan,US,"49628-7978","(555) 229-3326"
+Sharon,Reynolds,"sharon@example.com","Password1","1983-06-21",2,"[""4346 Parkway Street"",""""]",San Diego,California,US,"92103","(555) 229-3326"
+Mark,Woodward,"mark@example.com","Password1","1995-02-05",1,"[""500 Buckhannan Avenue"",""""]",Ithaca,New York,US,"14853","(555) 229-3326"

@@ -1,0 +1,14 @@
+[2024-07-17T13:00:26.520753+00:00] main.ERROR: NOTE: Manual static content deployment is not required in "default" and "developer" modes.
+In "default" and "developer" modes static contents are being deployed automatically on demand.
+If you still want to deploy in these modes, use -f option: 'bin/magento setup:static-content:deploy -f'
+#0 /var/www/magentoPwa/setup/src/Magento/Setup/Console/Command/DeployStaticContentCommand.php(112): Magento\Setup\Console\Command\DeployStaticContentCommand->checkAppMode()
+#1 /var/www/magentoPwa/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\DeployStaticContentCommand->execute()
+#2 /var/www/magentoPwa/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run()
+#3 /var/www/magentoPwa/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand()
+#4 /var/www/magentoPwa/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun()
+#5 /var/www/magentoPwa/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun()
+#6 /var/www/magentoPwa/bin/magento(23): Symfony\Component\Console\Application->run()
+#7 {main} [] []
+[2024-07-17T13:13:59.725026+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 2500; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-07-19T08:13:32.876333+00:00] main.ERROR: The "/var/www/magentoPwa/var/tmp/alternative-source-css.lock" file can't be deleted.  [] []
+[2024-07-19T08:13:32.882716+00:00] main.CRITICAL: The "/var/www/magentoPwa/var/tmp/alternative-source-css.lock" file can't be deleted.  [] []

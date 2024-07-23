@@ -1,0 +1,38 @@
+{
+    "name": "magento/module-sales-sample-data-venia",
+    "description": "N/A",
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "version": "0.0.5",
+    "require": {
+        "php": "~8.1.0||~8.2.0||~8.3.0",
+        "magento/framework": "*",
+        "magento/module-backend": "*",
+        "magento/module-catalog": "*",
+        "magento/module-catalog-inventory": "*",
+        "magento/module-catalog-sample-data-venia": "0.0.*",
+        "magento/module-configurable-product": "*",
+        "magento/module-customer": "*",
+        "magento/module-eav": "*",
+        "magento/module-sales": "*",
+        "magento/module-shipping": "*",
+        "magento/module-store": "*"
+    },
+    "suggest": {
+        "magento/module-configurable-sample-data-venia": "Sample Data version: 100.0.*",
+        "magento/module-customer-sample-data-venia": "Sample Data version: 100.0.*",
+        "magento/module-tax-sample-data-venia": "Sample Data version: 100.0.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magento\\SalesSampleDataVenia\\": ""
+        }
+    }
+}
+

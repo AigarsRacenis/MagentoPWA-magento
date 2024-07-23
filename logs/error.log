@@ -1,0 +1,4 @@
+2024/07/17 17:17:20 [error] 101701#101701: *471 access forbidden by rule, client: 127.0.0.1, server: magentopwa.local, request: "POST /app/etc/config.php HTTP/1.1", host: "magentopwa.local"
+2024/07/17 17:36:05 [error] 101701#101701: *670 access forbidden by rule, client: 127.0.0.1, server: magentopwa.local, request: "POST /app/etc/config.php HTTP/1.1", host: "magentopwa.local"
+2024/07/18 08:41:44 [error] 832#832: *15 access forbidden by rule, client: 127.0.0.1, server: magentopwa.local, request: "POST /app/etc/config.php HTTP/1.1", host: "magentopwa.local"
+2024/07/18 08:58:40 [error] 832#832: *241 access forbidden by rule, client: 127.0.0.1, server: magentopwa.local, request: "POST /app/etc/config.php HTTP/1.1", host: "magentopwa.local"

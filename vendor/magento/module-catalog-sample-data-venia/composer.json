@@ -1,0 +1,32 @@
+{
+    "name": "magento/module-catalog-sample-data-venia",
+    "description": "N/A",
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "version": "0.0.5",
+    "require": {
+        "php": "~8.1.0||~8.2.0||~8.3.0",
+        "magento/framework": "*",
+        "magento/module-bundle": "*",
+        "magento/module-catalog": "*",
+        "magento/module-downloadable": "*",
+        "magento/module-eav": "*",
+        "magento/module-grouped-product": "*",
+        "magento/module-store": "*"
+    },
+    "suggest": {
+        "magento/module-sample-data": "Sample Data version: 100.0.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magento\\CatalogSampleDataVenia\\": ""
+        }
+    }
+}
+

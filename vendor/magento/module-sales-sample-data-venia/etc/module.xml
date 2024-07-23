@@ -1,0 +1,11 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Magento_SalesSampleDataVenia">
+        <sequence>
+            <module name="Magento_Sales"/>
+            <module name="Magento_CatalogSampleDataVenia"/>
+            <module name="Magento_ConfigurableSampleDataVenia"/>
+            <module name="Magento_CustomerSampleDataVenia"/>
+            <module name="Magento_TaxSampleDataVenia"/>
+        </sequence>
+    </module>
+</config>

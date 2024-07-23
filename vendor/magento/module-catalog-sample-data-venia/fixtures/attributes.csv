@@ -1,0 +1,27 @@
+frontend_label,frontend_input,is_required,option,default,attribute_code,is_global,default_value_text,default_value_yesno,default_value_date,default_value_textarea,is_unique,is_searchable,is_visible_in_advanced_search,is_comparable,is_filterable,is_filterable_in_search,position,is_used_for_promo_rules,is_html_allowed_on_front,is_visible_on_front,used_in_product_listing,used_for_sort_by,attribute_set,is_wysiwyg_enabled,is_pagebuilder_enabled
+Description Extra,textarea,0,,,description_extra,1,,0,,,0,0,0,0,0,0,,0,1,1,0,0,"Fashion Accessories
+Dresses
+Fashion Tops
+Fashion Bottoms",,
+"Color
+Fashion Color",select,0,"Gold
+Silver",,fashion_color,1,,0,,,0,1,1,1,1,1,,0,1,1,1,0,"Fashion Accessories
+Dresses
+Fashion Tops
+Fashion Bottoms",,
+"Material
+Fashion Material",multiselect,0,"14K Gold
+Sterling Silver",,fashion_material,1,,0,,,0,1,1,1,1,1,,1,1,1,1,0,"Fashion Accessories
+Dresses
+Fashion Tops
+Fashion Bottoms",,
+Custom Engraving Text,text,0,,,accessory_custom_engraving_text,1,,0,,,0,0,0,0,0,0,4,0,1,1,1,0,Fashion Accessories,,
+Description Extra,textarea,0,,,accessory_description_extra,1,,0,,,0,0,0,0,0,0,6,0,1,1,1,0,Fashion Accessories,,
+Description Detailed Extra,textarea,0,,,accessory_description_detailed_extra,1,,0,,,0,0,0,0,0,0,7,0,1,1,1,0,Fashion Accessories,1,
+Description PageBuilder Extra,textarea,0,,,accessory_description_pagebuilder_extra,1,,0,,,0,0,0,0,0,0,8,0,1,1,1,0,Fashion Accessories,1,1
+Brand,select,0,"Venia
+Luma",,accessory_brand,1,,0,,,0,1,1,1,1,1,1,0,1,1,1,1,Fashion Accessories,,
+Gemstone Addon,multiselect,0,"Ruby
+Sapphire",,accessory_gemstone_addon,1,,0,,,0,1,1,1,1,1,2,1,1,1,1,0,Fashion Accessories,,
+Announcement Date,date,0,,,accessory_announcement_date,1,,0,,,0,0,0,0,0,0,3,0,1,1,1,0,Fashion Accessories,,
+Recyclable Material,boolean,0,,,accessory_recyclable_material,1,,0,,,0,1,1,1,1,1,5,1,1,1,1,0,Fashion Accessories,,
